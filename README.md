@@ -8,7 +8,7 @@ I built this project in 2024 while learning mobile application development with 
 
 This project represents one of my earliest experiences developing a mobile application and helped me understand how React Native applications are structured and how user interactions are handled on mobile devices.
 
-While I have worked on other React Native projects since then, this is currently the only surviving project from that period, making it a valuable record of my learning journey.
+While I have worked on other React Native projects since then, this is currently one of the few surviving projects from that period.
 
 ## Features 🛠️
 
