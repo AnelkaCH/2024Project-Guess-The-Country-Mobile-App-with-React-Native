@@ -2,8 +2,6 @@
 
 A simple mobile quiz game built with React Native where players identify the country associated with a famous landmark.
 
-The app presents a landmark image along with its name, and the player must enter the correct country. Once an answer is submitted, a new landmark is presented and the challenge continues.
-
 ## About the Project 💻
 
 I built this project in 2024 while learning mobile application development with React Native. Although some starter files were provided as part of a course, I created the application logic, landmark dataset, and user interface myself with guidance from the course materials.
