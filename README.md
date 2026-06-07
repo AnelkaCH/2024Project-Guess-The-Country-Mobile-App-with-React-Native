@@ -1,78 +1,83 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+# Guess The Country Mobile App with React Native 🌎
 
-# Getting Started
+A simple mobile quiz game built with React Native where players identify the country associated with a famous landmark.
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+## About the Project 💻
 
-## Step 1: Start the Metro Server
+I built this project in 2024 while learning mobile application development with React Native. Although some starter files were provided as part of a course, I created the application logic, landmark dataset, and user interface myself with guidance from the course materials.
 
-First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
+This project represents one of my earliest experiences developing a mobile application and helped me understand how React Native applications are structured and how user interactions are handled on mobile devices.
 
-To start Metro, run the following command from the _root_ of your React Native project:
+While I have worked on other React Native projects since then, this is currently the only surviving project from that period, making it a valuable record of my learning journey.
+
+## Features 🛠️
+
+* Landmark-based country guessing game
+* Image and landmark name displayed for each question
+* User text input for answers
+* Immediate answer validation
+* Two screens (home and winning screens) and a navigator
+* Custom landmark dataset
+
+## Tech Stack ⚙️
+
+* React Native
+* JavaScript
+* Android Emulator
+* Visual Studio Code
+
+## What I Learned 📝
+
+Through this project, I gained practical experience with:
+
+* Building mobile user interfaces with React Native
+* Managing component state
+* Handling user input and form validation
+* Working with images and custom datasets
+* Creating reusable components
+* Structuring a simple mobile application
+* Testing applications using the Android Emulator
+
+## Project Status 🖥️
+
+This project was completed in 2024 and is no longer actively maintained.
+
+Because it was created several years ago, I have not recently tested it on modern devices or emulators. The repository is preserved as a showcase of my early React Native experience and the progress I have made as a developer since then.
+
+## Installation ⬇️
 
 ```bash
-# using npm
-npm start
-
-# OR using Yarn
-yarn start
+git clone https://github.com/AnelkaCH/Guess-The-Country-Mobile-App.git
+cd Guess-The-Country-Mobile-App
+npm install
 ```
 
-## Step 2: Start your Application
-
-Let Metro Bundler run in its _own_ terminal. Open a _new_ terminal from the _root_ of your React Native project. Run the following command to start your _Android_ or _iOS_ app:
-
-### For Android
+Run the application using the React Native CLI and an Android emulator:
 
 ```bash
-# using npm
-npm run android
-
-# OR using Yarn
-yarn android
+npx react-native run-android
 ```
 
-### For iOS
+## Future Improvements 🔨
 
-```bash
-# using npm
-npm run ios
+If I were to revisit this project today, I would consider adding:
 
-# OR using Yarn
-yarn ios
-```
+* Score tracking
+* Difficulty levels
+* Multiple-choice mode
+* Better UI/UX design
+* Larger landmark database
+* Unit and integration testing
+* Support for iOS devices
 
-If everything is set up _correctly_, you should see your new app running in your _Android Emulator_ or _iOS Simulator_ shortly provided you have set up your emulator/simulator correctly.
+## Screenshots 🖼️
 
-This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
+![Picture 1](screenshots/picture1.png)
+![Picture 2](screenshots/picture2.png)
 
-## Step 3: Modifying your App
+## Acknowledgements ✨
 
-Now that you have successfully run the app, let's modify it.
-
-1. Open `App.tsx` in your text editor of choice and edit some lines.
-2. For **Android**: Press the <kbd>R</kbd> key twice or select **"Reload"** from the **Developer Menu** (<kbd>Ctrl</kbd> + <kbd>M</kbd> (on Window and Linux) or <kbd>Cmd ⌘</kbd> + <kbd>M</kbd> (on macOS)) to see your changes!
-
-   For **iOS**: Hit <kbd>Cmd ⌘</kbd> + <kbd>R</kbd> in your iOS Simulator to reload the app and see your changes!
-
-## Congratulations! :tada:
-
-You've successfully run and modified your React Native App. :partying_face:
-
-### Now what?
-
-- If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
-- If you're curious to learn more about React Native, check out the [Introduction to React Native](https://reactnative.dev/docs/getting-started).
-
-# Troubleshooting
-
-If you can't get this to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
-
-# Learn More
-
-To learn more about React Native, take a look at the following resources:
-
-- [React Native Website](https://reactnative.dev) - learn more about React Native.
+This project was developed as part of a React Native learning course. While some starter files were provided, the application logic, landmark dataset, and overall implementation were developed by me as part of the learning process.
 - [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
 - [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
