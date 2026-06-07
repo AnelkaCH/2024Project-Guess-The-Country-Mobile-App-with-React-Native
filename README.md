@@ -8,7 +8,11 @@ I built this project in 2024 while learning mobile application development with 
 
 This project represents one of my earliest experiences developing a mobile application and helped me understand how React Native applications are structured and how user interactions are handled on mobile devices.
 
+<<<<<<< HEAD
 While I have worked on other React Native projects since then, this is currently one of the few surviving projects from that period.
+=======
+While I have worked on other React Native projects since then, this is currently the only surviving project from that period, making it a valuable record of my learning journey.
+>>>>>>> 1a85e8f0bff236c6a0584a80cd9cd3c0e7b317af
 
 ## Features 🛠️
 
@@ -16,7 +20,11 @@ While I have worked on other React Native projects since then, this is currently
 * Image and landmark name displayed for each question
 * User text input for answers
 * Immediate answer validation
+<<<<<<< HEAD
 * Two screens (home and winning screens) and a navigator
+=======
+* Simple single-screen interface
+>>>>>>> 1a85e8f0bff236c6a0584a80cd9cd3c0e7b317af
 * Custom landmark dataset
 
 ## Tech Stack ⚙️
@@ -72,8 +80,12 @@ If I were to revisit this project today, I would consider adding:
 
 ## Screenshots 🖼️
 
+<<<<<<< HEAD
 ![Picture 1](screenshots/picture1.png)
 ![Picture 2](screenshots/picture2.png)
+=======
+*Add screenshots here.*
+>>>>>>> 1a85e8f0bff236c6a0584a80cd9cd3c0e7b317af
 
 ## Acknowledgements ✨
 
