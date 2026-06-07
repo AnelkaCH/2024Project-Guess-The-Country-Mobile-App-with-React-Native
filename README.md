@@ -49,8 +49,8 @@ Because it was created several years ago, I have not recently tested it on moder
 ## Installation ⬇️
 
 ```bash
-git clone <repository-url>
-cd guess-the-country
+git clone https://github.com/AnelkaCH/Guess-The-Country-Mobile-App.git
+cd Guess-The-Country-Mobile-App
 npm install
 ```
 
