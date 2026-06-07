@@ -4,7 +4,7 @@ import {
 } from 'react-native';
 import { countryList } from '../../data/Data';
 
-const GuessThatCountry = (props) => {
+const GuessTheCountry = (props) => {
   const { navigation } = props;
   const [index, setIndex] = useState(0);
   const [answer, setAnswer] = useState('');
@@ -82,6 +82,6 @@ const GuessThatCountry = (props) => {
   );
 };
 
-export default GuessThatCountry;
+export default GuessTheCountry;
 
     

@@ -1,11 +1,11 @@
 import React from 'react';
 import { SafeAreaProvider }
 from 'react-native-safe-area-context';
-import GuessThatCountry from './src/screens/GuessThatCountry';
+import GuessTheCountry from './src/screens/GuessThatCountry';
 const App = () => {
     return (
     <SafeAreaProvider>
-        <GuessThatCountry/>
+        <GuessTheCountry/>
     </SafeAreaProvider>
     )
 }
