@@ -1,6 +1,8 @@
 # Guess The Country Mobile App with React Native 🌎
 
-A simple mobile quiz game built with React Native where players identify the country associated with a famous landmark.
+(Note: This project was made in 2024, but I decided to upload it to GitHub in 2026 to keep it safe :D)
+
+I wanted to try something new. I have tried web dev and game dev with Phaser (although I should've tried Unity ;-;). This time, I had an itch to try mobile app development, specifically Android because I don't use iOS LMAO. This was my first steps into app dev, which was a simple mobile quiz game built with React Native where players identify the country associated with a famous landmark.
 
 ## About the Project 💻
 
@@ -44,11 +46,9 @@ This project was completed in 2024 and is no longer actively maintained.
 
 Because it was created several years ago, I have not recently tested it on modern devices or emulators. The repository is preserved as a showcase of my early React Native experience and the progress I have made as a developer since then.
 
-## Installation ⬇️
+## Setup ⬇️
 
 ```bash
-git clone https://github.com/AnelkaCH/Guess-The-Country-Mobile-App-with-React-Native.git
-cd Guess-The-Country-Mobile-App-with-React-Native
 npm install
 ```
 
