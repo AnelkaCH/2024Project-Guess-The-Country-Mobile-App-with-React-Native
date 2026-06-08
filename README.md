@@ -47,8 +47,8 @@ Because it was created several years ago, I have not recently tested it on moder
 ## Installation ⬇️
 
 ```bash
-git clone https://github.com/AnelkaCH/Guess-The-Country-Mobile-App.git
-cd Guess-The-Country-Mobile-App
+git clone https://github.com/AnelkaCH/Guess-The-Country-Mobile-App-with-React-Native.git
+cd Guess-The-Country-Mobile-App-with-React-Native
 npm install
 ```
 
